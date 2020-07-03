@@ -1,2 +1,3 @@
 # Online-News-Popularity
 TU_projects In this project I predict the popularity of online news. This work has been done according to the paper "Predicting and Evaluating the Popularity of Online News". But we have transformed our data to RDF format and upload it to a SPARQL endpoint and then we have queried the data from there. I experiment two approaches, support vector machine, which is one of papar approaches, as well as Neural Networks. The results are quite comparable with reported performance in the paper.
+![alt text](https://github.com/prezaie/Online-News-Popularity/blob/master/online_news.png)
